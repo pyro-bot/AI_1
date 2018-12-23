@@ -1,3 +1,6 @@
+# Panchishin IR
+/pir
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +105,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Pycharm
+.idea
+
+# keras / tensorflow checkpoints
+*save_point*
+*save point*
+*checkpoint*
+*.h5
+*.hdfs5
+*.hdf5
+*.hdf
+*.hdfs
